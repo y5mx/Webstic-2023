@@ -1,1 +1,2 @@
-# Webstic-2023
+# Webstic
+Webstic development website
